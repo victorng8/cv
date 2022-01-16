@@ -1,12 +1,20 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Salesforce
+  description: Salesforce (Force.com | Sales Cloud | Service Cloud | Marketing Cloud | Apex | Lightning Web Components | SOQL)
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Programming & Scripting Languages
+  description: Java | JUnit | JavaScript | Python | XML | HTML5 | CSS | PHP | SQL
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Code Editors
+  description: Visual Studio Code | Eclipse | MySQL
+
+- skill: Code Repository Tools
+  description: Git | TortoiseSVN | GitHub | Bitbucket | GitLab 
+
+- skill: CI/CD Tools
+  description: Flosum | Jenkins 
+
+- skill: Issue Tracking & Project Management Tools
+  description: JIRA | Confluence | Trello 
+  
+

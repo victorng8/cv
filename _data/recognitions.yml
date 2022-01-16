@@ -1,10 +1,17 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Certified Platform App Builder
+  organization: Salesforce
+  year: Dec 2017
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Certified Marketing Cloud Email Specialist
+  organization: Salesforce
+  year: Aug 2017
+
+- award: Certified Administrator
+  organization: Salesforce
+  year: Jun 2017
+
+- award: Flosum Certified Professional
+  organization: Flosum
+  year: Oct 2021
+  summary: For demonstrating a mastery of the basic principles of Flosum Release Management and a proven comprehension of Salesforce DevOps best practices as described in the Professional Level Certification Course

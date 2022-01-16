@@ -1,13 +1,7 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: BSc (Hons) Software Engineering &mdash; 2nd Upper
+  uni: University of Nottingham (Malaysia Campus)
+  year: 2013 &mdash; 2015
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
-
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+    - award: Best (Software Engineering) Group Project 2014
+ # summary: If you had any meaningful roles at college, feel free to write about them here
