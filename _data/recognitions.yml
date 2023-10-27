@@ -1,4 +1,8 @@
-# Recognitions
+# Recognitions (Certifications)
+- award: Certified Platform Developer 1
+  organization: Salesforce
+  year: Jan 2023
+
 - award: Certified Platform App Builder
   organization: Salesforce
   year: Dec 2017
@@ -11,7 +15,18 @@
   organization: Salesforce
   year: Jun 2017
 
-- award: Flosum Certified Professional
+- award: Copado Salesforce DevOps Fundamentals 1
+  organization: Copado
+  year: Aug 2023
+
+- award: Copado Salesforce DevOps Fundamentals 2
+  organization: Copado
+  year: Aug 2023
+
+- award: Flosum (Salesforce DevOps) Certified Professional
   organization: Flosum
   year: Oct 2021
-  summary: For demonstrating a mastery of the basic principles of Flosum Release Management and a proven comprehension of Salesforce DevOps best practices as described in the Professional Level Certification Course
+
+- award: Certified ScrumMaster
+  organization: ScrumAlliance
+  year: Dec 2022
