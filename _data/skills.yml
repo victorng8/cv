@@ -1,20 +1,19 @@
 # Skills
 - skill: Salesforce
-  description: Integrations | Sales Cloud | Service Cloud | Marketing Cloud | Experience Cloud | Apex | Lightning Web Components (LWC) | CPQ | SOQL | Sites)
+  description: Integrations | Sales Cloud | Service Cloud | Marketing Cloud | Experience Cloud | Apex | Flows | Lightning Web Components (LWC) | CPQ | SOQL | Force.com Sites
 
 - skill: Programming & Scripting Languages
-  description: Java | JUnit | JavaScript | Python | XML | HTML5 | CSS | PHP | SQL
+  description: JavaScript | Python | Java | JUnit | XML | HTML5 | CSS | PHP | SQL
 
 - skill: Code Editors
   description: Visual Studio Code | Eclipse | MySQL
 
 - skill: Code Repository Tools
-  description: Git | GitHub | Bitbucket | GitLab | TortoiseSVN
+  description: GitHub | Bitbucket | GitLab | TortoiseSVN
 
 - skill: CI/CD Tools
-  description: Flosum | Jenkins | Copado
+  description: Flosum | Jenkins | Copado 
 
 - skill: Issue Tracking & Project Management Tools
   description: JIRA | Confluence | Trello 
-  
 
